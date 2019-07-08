@@ -1,0 +1,866 @@
+{
+  "id": 60271,
+  "featured_video": {
+    "desktop_mp4": "",
+    "desktop_full_mp4": "",
+    "desktop_credits_mp4": "",
+    "desktop_ogg": "",
+    "desktop_full_ogg": "",
+    "desktop_credits_ogg": "",
+    "desktop_webm": "",
+    "desktop_full_webm": "",
+    "desktop_credits_webm": "",
+    "mobile_mp4": "",
+    "mobile_full_mp4": "",
+    "mobile_credits_mp4": "",
+    "mobile_ogg": "",
+    "mobile_full_ogg": "",
+    "mobile_credits_ogg": "",
+    "mobile_webm": "",
+    "mobile_full_webm": "",
+    "mobile_credits_webm": "",
+    "video_found": 0
+  },
+  "thumbnail": {
+    "id": "60296",
+    "title": "hotels-in-the-scottish-highlands-danka-peter-148722-unsplash",
+    "alt": "",
+    "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095645/hotels-in-the-scottish-highlands-danka-peter-148722-unsplash.jpg",
+    "courtesy": "",
+    "position": "center"
+  },
+  "thumbnail_url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095645/hotels-in-the-scottish-highlands-danka-peter-148722-unsplash.jpg",
+  "slug": "hotels-in-the-scottish-highlands",
+  "uri": "http://trivago-magazine-work-sample-server.s3-website.eu-central-1.amazonaws.com/hotels-in-the-scottish-highlands.json",
+  "title": "5 Hotels in the Scottish Highlands: Unique Stays in the Great Outdoors",
+  "card_title": "Hotels in the Scottish Highlands",
+  "show_publish_date": false,
+  "date": "January 24th, 2019",
+  "newsletter_popup": false,
+  "newsletter_popup_header_image": false,
+  "taxonomies": {
+    "destinations": [
+      {
+        "name": "Europe",
+        "uri": "/destination/international/europe",
+        "slug": "europe",
+        "term_id": 1384
+      }
+    ],
+    "themes": [],
+    "types": [
+      {
+        "name": "Nature",
+        "uri": "/type/nature",
+        "slug": "nature",
+        "term_id": 1380
+      }
+    ],
+    "tags": []
+  },
+  "exclusive": false,
+  "excerpt": "Edinburgh-based writer Laura Crawford shares her top picks for hotels in the Scottish Highlands ranging from plush luxury hotels to boutique lodges.",
+  "content": [
+    {
+      "type": "intro_text",
+      "text": "<p><p>When it comes to spending time in the spectacularly rugged landscape of the Scottish Highlands, every season comes with a different experience. Spring sees the arrival of blooming daffodils and bluebells lining woodland trails. In summer, the Highland hillsides burst into color. Whereas autumn really showcases the Highlands at their peak, with the leaves changing to golden and the lochs glittering in the crisp sunlight. But, let’s be honest, the hardy Scots were made in the winter, with a warming “dram” and a plate of traditional haggis, neeps, and tatties proving a welcome treat after a hike around the snowy glens.</p></p><p><p>And with many a bolthole to cozy up in after your Highland adventures, it can be tough to decide which one to go for. So, from plush luxury hotels to boutique-style lodges, here&#8217;s a range of hotels in the Scottish Highlands.</p></p>"
+    },
+    {
+      "type": "excerpt_in_article",
+      "text": "<p>Edinburgh-based writer Laura Crawford shares her top picks for hotels in the Scottish Highlands ranging from plush luxury hotels to boutique lodges.</p>"
+    },
+    {
+      "type": "hotel_module",
+      "title": "Luxury boutique castle hotel in the Highlands",
+      "gallery": [
+        {
+          "title": "highlands-hotels-fonab-castle-exterior",
+          "alt": "highlands-hotels-fonab-castle-exterior",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095041/highlands-hotels-fonab-castle-exterior.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-fonab-bedroom",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095040/highlands-hotels-fonab-bedroom.jpg",
+          "height": 552,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-fonab-castle-bedroom-main",
+          "alt": "highlands-hotels-fonab-castle-bedroom-main",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095041/highlands-hotels-fonab-castle-bedroom-main.jpg",
+          "height": 540,
+          "width": 800,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 2859350,
+        "name": "Fonab Castle Hotel & Spa",
+        "ratingValue": 93.33,
+        "ratingCount": 736,
+        "ratingText": "Excellent",
+        "category": 5,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_BnOPHJG8kokChq6wRb00sL6lViqyJ.gozpvZ2saZOEwv4sl1N7np4isTP2ElCHxQLeX-FQCTklRblZF-Kv8UXF-raet5p-zPbBSfpiJw8E4lNPtVdUsfYWyKe2ql9Oty6o8ani-rupR8sZHCvMNNgS3xZAW6tg",
+        "amenities": [
+          "pets",
+          "pool",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "cleanliness",
+          "aspect_name": "Cleanliness",
+          "aspect_rating_percentage": 96,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Pitlochry",
+          "poi": "Blair Athol Distillery",
+          "distance": 0.3,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/pitlochry-41941/hotel/fonab-castle-hotel---spa-2859350",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>If a romantic break tucked away in a luxury boutique hotel in the Highlands with your other half sounds like heaven to you, you might just fall head over heels in love with <a href=\"https://www.trivago.com/pitlochry-41941/hotel/fonab-castle-hotel---spa-2859350\" target=\"_blank\" rel=\"noopener\"><strong>Fonab Castle</strong></a>. Situated next to the popular town of Pitlochry, it’s within an area of the Highlands known as the gateway to the Cairngorms.</p><p>As a five-star hotel, Fonab Castle has a range of plush rooms and suites which are perfect for couples. You can choose between a loch or a woodland view room, both with superior options available. But, for a real luxury experience, Fonab Castle’s fourth-floor penthouse suite has unrivaled views across the countryside – as well as a beautiful dressing room, feature fireplace, and high-vaulted ceilings.</p><p>If by some miracle, you’ve had enough of padding around in your dressing gown upstairs, it might be time to book in for a pampering spa treatment. Fonab’s dedicated spa has everything from anti-ageing facials to detoxifying body wraps. Or, if you’re just up for a leisurely swim, their pool is a great way to kick off your morning.</p><p>Keen to get some fresh air after you’ve sampled the spa? The nearby Faskally Wood is home to the popular Enchanted Forest in the autumn months and is a wonderful place to go for a wander on a spring day. There’s also the reservoir of Loch Faskally, which is a short walk from the centre of Pitlochry and photographs beautifully.</p><p>Within Pitlochry town center, there is the Blair Athol distillery. The distillery is the proud producer of Blair Athol 12-year old whisky and contributes to the malts which make up the famed Bell’s whisky. We recommend sampling a few drams during the distillery tour for the best experience. You could even organize a private tour and tutored tasting session with whisky drawn direct from the barrel.</p>"
+        },
+        {
+          "type": "related_articles",
+          "title": "Try a castle hotel with a whisky tasting",
+          "posts": [
+            {
+              "title": "Dornoch Castle: A Whisky Tasting at One of the World's Most Popular Hotel Bars",
+              "card_title": "Whisky Tasting at Dornoch Castle in the Scottish Highlands",
+              "date": "January 29th, 2019",
+              "slug": "dornoch-castle-scotland-whisky",
+              "show_publish_date": false,
+              "taxonomies": {
+                "destinations": [
+                  {
+                    "name": "Europe"
+                  }
+                ]
+              },
+              "thumbnail_url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/23144800/dornoch-castle-whisky-bar.jpg"
+            }
+          ]
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Foodies in the Highlands",
+      "gallery": [
+        {
+          "title": "highlands-hotels-dunalastair-hotel-suites-exterior",
+          "alt": "highlands-hotels-dunalastair-hotel-suites-exterior",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095108/highlands-hotels-dunalastair-hotel-suites-exterior.jpg",
+          "height": 599,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-dunalastair-hotel-suites-bedroom",
+          "alt": "highlands-hotels-dunalastair-hotel-suites-bedroom",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095108/highlands-hotels-dunalastair-hotel-suites-bedroom.jpg",
+          "height": 444,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-dunalastair-hotel-suites-bathroom",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095107/highlands-hotels-dunalastair-hotel-suites-bathroom.jpg",
+          "height": 533,
+          "width": 800,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 47186,
+        "name": "Dunalastair Hotel Suites",
+        "ratingValue": 86.24,
+        "ratingCount": 79,
+        "ratingText": "Excellent",
+        "category": 5,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_1SIZ1mV8nhbE.bwlXcF8yzJgPGeelHDIb0nRsTzL0cPUUMulX55zCNkfWHyQmcbu7ZYlN0S5vhuBrwUS0.6VDDavgg2WlRGx.Y4QhTcbiI1diTRnsOOCVpFUbBW-mGjmI8kSJtamrAkRRfXD-b70D4hQJczi",
+        "amenities": {
+          "0": "pets",
+          "1": "beach",
+          "2": "wifi",
+          "4": "breakfast"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "cleanliness",
+          "aspect_name": "Cleanliness",
+          "aspect_rating_percentage": 94,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/kinloch-rannoch-568682/hotel/dunalastair-hotel-suites-47186",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>The newly-opened five-star <a href=\"https://www.trivago.com/kinloch-rannoch-568682/hotel/dunalastair-hotel-suites-47186\" target=\"_blank\" rel=\"noopener\"><strong>Dunalastair Hotel Suites</strong></a> in the village of Kinnloch Rannoch is one of the most secluded options in our Highlands hotel guide. The owners have made sure that everything you need is onsite, so there&#8217;s never a reason to hop in a car.</p><p>The boutique hotel is filled with original period features intertwined with luxury touches such as e-concierge directories and Egyptian cotton sheets.</p><p>Foodies, rejoice! The hotel features a fine dining restaurant called Edina’s Kitchen which serves up fresh Scottish dishes using locally-sourced ingredients.</p><p>Looking for somewhere to go and stretch your legs? The Queen’s View viewpoint is a half an hour’s drive from Kinloch Rannoch and provides one of the most famed panoramic views in Perthshire. Known as Queen’s View due to both Queen Isabella and Queen Victoria’s penchant for spending time there, it really is worth a visit. There’s also a visitor center and cafe for a well-deserved cuppa after you’ve snapped your photos.</p><p>For those with a little more stamina, the Schiehallion mountain is a favorite for hill walkers and the base of it is a mere hop, skip and jump from the hotel.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Bucket-List Hotel in the Highlands",
+      "gallery": [
+        {
+          "title": "highlands-hotels-riverbed-lodges-glencoe-exterior",
+          "alt": "highlands-hotels-riverbed-lodges-glencoe-exterior",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095221/highlands-hotels-riverbed-lodges-glencoe-exterior.jpg",
+          "height": 533,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-riverbed-lodges-glencoe-bed-2",
+          "alt": "highlands-hotels-riverbed-lodges-glencoe-bed-2",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095220/highlands-hotels-riverbed-lodges-glencoe-bed-2.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-riverbed-lodges-glencoe-bed",
+          "alt": "highlands-hotels-riverbed-lodges-glencoe-bed",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095220/highlands-hotels-riverbed-lodges-glencoe-bed.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-riverbed-lodges-glencoe-lounge",
+          "alt": "highlands-hotels-riverbed-lodges-glencoe-lounge",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095221/highlands-hotels-riverbed-lodges-glencoe-lounge.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 5159434,
+        "name": "RiverBeds Lodges",
+        "ratingValue": 87.54,
+        "ratingCount": 102,
+        "ratingText": "Excellent",
+        "category": "",
+        "url": null,
+        "amenities": [
+          "pets",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "cleanliness",
+          "aspect_name": "Cleanliness",
+          "aspect_rating_percentage": 92,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/glencoe-41777/hotel/riverbeds-lodges-5159434",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p><a href=\"https://www.trivago.com/glencoe-41777/hotel/riverbeds-lodges-5159434\" target=\"_blank\" rel=\"noopener\"><strong>RiverBeds Lodges</strong></a> are situated in the breathtaking and haunting Glencoe; one of the most photogenic areas of the Scottish Highlands. They sum themselves up as “luxury wee lodges” and it couldn’t be more accurate. Each lodge features its own private deck overlooking a stream, and some even feature their very own private outdoor hot tub.</p><p>As the lodges are quite compact, each and every aspect has been cleverly thought out, ensuring your stay is a premium experience. From a well-stocked Costa Coffee pod machine to color-changing LED lights, you’ll have all the little luxuries that make hotel stays perfect. And to top it all off, they even deliver croissants and fresh milk in the morning.</p><p>On the RiverBeds estate itself, there’s the Caledonia Way cycle route which winds its way through, providing an excellent base for both keen cyclists and families.</p><p>Fort William and Ben Nevis are also close by, with Fort William being a 20-minute drive and a great stop-off point on the way to Ben Nevis. Of course, Ben Nevis is not for the faint-hearted and is perhaps more suited to those of us who are seasoned hillwalkers.</p><p>For pubs nearby, The Laroch restaurant and bar is a great place to come together over a pint with the locals, and the restaurant is even overseen by a Michelin Star chef.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Cozy Pub Hotel in the Cairngorms",
+      "gallery": [
+        {
+          "title": "highlands-hotels-boat-hotel-boat-of-garten-exterior",
+          "alt": "highlands-hotels-boat-hotel-boat-of-garten-exterior",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095301/highlands-hotels-boat-hotel-boat-of-garten-exterior.jpg",
+          "height": 516,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-boat-hotel-boat-of-garten-bedroom",
+          "alt": "highlands-hotels-boat-hotel-boat-of-garten-bedroom",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095301/highlands-hotels-boat-hotel-boat-of-garten-bedroom.jpg",
+          "height": 427,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-boat-hotel-boat-of-garten-bathroom-2",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095259/highlands-hotels-boat-hotel-boat-of-garten-bathroom-2.jpg",
+          "height": 574,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-boat-hotel-boat-of-garten-bathroom",
+          "alt": "highlands-hotels-boat-hotel-boat-of-garten-bathroom",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095300/highlands-hotels-boat-hotel-boat-of-garten-bathroom.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 190376,
+        "name": "The Boat Hotel",
+        "ratingValue": 78.47,
+        "ratingCount": 1331,
+        "ratingText": "Good",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_m44aSRP-BgLtU2bZDLHiZhLpEQstXuIg3KcXlSqzfsZ06aM2bGVPAqUZ.jlAJPHA21CHsXa2KPuhnbIM9urqUvPlgRgZIlZRnrViuFCACDre4cmnuIcbe6eHs5bL4OXgXK.Ti9W.zp7tumS1euOKmI0p6Xc",
+        "amenities": [
+          "pets",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "47",
+            "tag_name": "Restaurant",
+            "icon": "restaurant"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 88,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/boat-of-garten-119576/hotel/the-boat-hotel-190376",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>When you ask a Scot which part of the Scottish Highlands they love the most, Aviemore is one of the most common responses. As a bustling tourist destination, it really is at the very heart of the Cairngorms National Park. Surrounded by stunning lochs, mountains, ski runs, and lush forests, it’s got something for all outdoorsy folk.</p><p><a href=\"https://www.trivago.com/boat-of-garten-119576/hotel/the-boat-hotel-190376\" target=\"_blank\" rel=\"noopener\"><strong>The Boat Hotel</strong></a> in Boat of Garten, just a 10-minute drive from the hustle and bustle of Aviemore, is the perfect place to come home to after a busy day exploring. Priding themselves on their hearty comforting pub grub, the restaurant has a seasonally revolving menu as well as a fully-stocked bar with a range of whiskies from across Scotland. The rooms, too, are focused on putting comfort first and ensuring a cozy night’s sleep within their premium sheets. Even more uniquely, The Boat Hotel has its very own library to peruse on a rainy afternoon; perfect for curling up in one of their armchairs and whiling the day away.</p><p>Its winning charm, however, is its proximity to the local attractions. Ever tried your hand at skiing? The Cairngorm Mountain ski resort is a 30-minute drive from the hotel and is a great place to get to grips with snowboarding and skiing. Or, why not take the time to visit Loch Morlich or Loch an Eilein, both around a 20-minute drive away.</p><p>Once you’re ready to warm up from the cold, there’s an abundance of cozy pubs with roaring fires, such as The Old Bridge Inn in Aviemore which hosts regular live music and serves up gastropub food such as venison haunch and seatrout. There’s even a vegan menu on offer, so all guests are well catered for.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Group Holidays with a Twist in the Highlands",
+      "gallery": [
+        {
+          "title": "achnagairn-castle2",
+          "alt": "achnagairn-castle",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095353/achnagairn-castle2.jpg",
+          "height": 800,
+          "width": 1199,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-achnagairn-estate-bathroom-tub",
+          "alt": "highlands-hotels-achnagairn-estate-bathroom-tub",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095353/highlands-hotels-achnagairn-estate-bathroom-tub.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        },
+        {
+          "title": "highlands-hotels-achnagairn-estate-bedroom-hot-tub",
+          "alt": "highlands-hotels-achnagairn-estate-bedroom-hot-tub",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095354/highlands-hotels-achnagairn-estate-bedroom-hot-tub.jpg",
+          "height": 532,
+          "width": 800,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 3390600,
+        "name": "Achnagairn Estate",
+        "ratingValue": 86.87,
+        "ratingCount": 334,
+        "ratingText": "Excellent",
+        "category": 5,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_2Zj3Tagob.LjLpFT6EBvn3jI1-CTiJABmtN72sSp2YteuuoN9LHR62V7Xy.WjhDcDnSGJUhsdrn8GEZqD2yX4mtGy0YLZf02pTRyS78RD23VYPtuhGzAPEn8aeFxesA0NuvwN5y5tscH5K3rfus22Gt0QzOB",
+        "amenities": [
+          "pets",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "47",
+            "tag_name": "Restaurant",
+            "icon": "restaurant"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "cleanliness",
+          "aspect_name": "Cleanliness",
+          "aspect_rating_percentage": 90,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Inverness",
+          "poi": "Fort George",
+          "distance": 14.8,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/inverness-443937/hotel/achnagairn-estate-3390600",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>If you’re planning to visit Inverness, this grand hotel is sure to tick all the boxes. <a href=\"https://www.trivago.com/inverness-443937/hotel/achnagairn-estate-3390600\" target=\"_blank\" rel=\"noopener\"><strong>Achnagairn Estate</strong></a> is a stand-out choice; located seven miles from the center of Inverness, it houses 38 bedrooms across lodges 650 feet from the historic Achnagairn castle. The design of each bedroom is unique, inspired by colourful topics such as Scottish thistles and the post-impressionist artist Georges Seurat. The lodges can accommodate between 10 and 12 people, so it’s a great option for a group getaway with friends.</p><p>In nearby Inverness, there’s a variety of fine dining restaurants and cozy cafes alike. Make sure you try out Rocpool Restaurant; the venison and the scallops are firm favorites for the regulars. A stroll along the River Ness is the perfect way to walk off that food coma before heading back to Achnagairn.</p><p>As an alternative to the main hub of Inverness, the hotel is also a mere nine miles from Strathpeffer. The Victorian spa town is popular with walkers, due to its closeness to Ben Wyvis and the Iron Age hill fort, Knock Farril. For an unspoiled view across the Highlands, these two viewpoints are well worth the climb.</p><p>If you’re looking for a group getaway with plenty of gorgeous walks and luxurious surroundings, a stay at Achnagairn Estate lodges really will be a stay that you won’t forget.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "table_of_contents",
+      "show": true,
+      "header": "Hotels in this article",
+      "table_of_contents": [
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 2859350,
+            "name": "Fonab Castle Hotel & Spa",
+            "ratingValue": 93.33,
+            "ratingCount": 736,
+            "ratingText": "Excellent",
+            "category": 5,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_BnOPHJG8kokChq6wRb00sL6lViqyJ.gozpvZ2saZOEwv4sl1N7np4isTP2ElCHxQLeX-FQCTklRblZF-Kv8UXF-raet5p-zPbBSfpiJw8E4lNPtVdUsfYWyKe2ql9Oty6o8ani-rupR8sZHCvMNNgS3xZAW6tg",
+            "amenities": [
+              "pets",
+              "pool",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "cleanliness",
+              "aspect_name": "Cleanliness",
+              "aspect_rating_percentage": 96,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Pitlochry",
+              "poi": "Blair Athol Distillery",
+              "distance": 0.3,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/pitlochry-41941/hotel/fonab-castle-hotel---spa-2859350",
+            "show_extra_hotel_info": true,
+            "title": "Luxury boutique castle hotel in the Highlands"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 47186,
+            "name": "Dunalastair Hotel Suites",
+            "ratingValue": 86.24,
+            "ratingCount": 79,
+            "ratingText": "Excellent",
+            "category": 5,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_1SIZ1mV8nhbE.bwlXcF8yzJgPGeelHDIb0nRsTzL0cPUUMulX55zCNkfWHyQmcbu7ZYlN0S5vhuBrwUS0.6VDDavgg2WlRGx.Y4QhTcbiI1diTRnsOOCVpFUbBW-mGjmI8kSJtamrAkRRfXD-b70D4hQJczi",
+            "amenities": {
+              "0": "pets",
+              "1": "beach",
+              "2": "wifi",
+              "4": "breakfast"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "cleanliness",
+              "aspect_name": "Cleanliness",
+              "aspect_rating_percentage": 94,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/kinloch-rannoch-568682/hotel/dunalastair-hotel-suites-47186",
+            "show_extra_hotel_info": true,
+            "title": "Foodies in the Highlands"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 5159434,
+            "name": "RiverBeds Lodges",
+            "ratingValue": 87.54,
+            "ratingCount": 102,
+            "ratingText": "Excellent",
+            "category": "",
+            "url": null,
+            "amenities": [
+              "pets",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "cleanliness",
+              "aspect_name": "Cleanliness",
+              "aspect_rating_percentage": 92,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/glencoe-41777/hotel/riverbeds-lodges-5159434",
+            "show_extra_hotel_info": true,
+            "title": "Bucket-List Hotel in the Highlands"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 190376,
+            "name": "The Boat Hotel",
+            "ratingValue": 78.47,
+            "ratingCount": 1331,
+            "ratingText": "Good",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_m44aSRP-BgLtU2bZDLHiZhLpEQstXuIg3KcXlSqzfsZ06aM2bGVPAqUZ.jlAJPHA21CHsXa2KPuhnbIM9urqUvPlgRgZIlZRnrViuFCACDre4cmnuIcbe6eHs5bL4OXgXK.Ti9W.zp7tumS1euOKmI0p6Xc",
+            "amenities": [
+              "pets",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "47",
+                "tag_name": "Restaurant",
+                "icon": "restaurant"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 88,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/boat-of-garten-119576/hotel/the-boat-hotel-190376",
+            "show_extra_hotel_info": true,
+            "title": "Cozy Pub Hotel in the Cairngorms"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 3390600,
+            "name": "Achnagairn Estate",
+            "ratingValue": 86.87,
+            "ratingCount": 334,
+            "ratingText": "Excellent",
+            "category": 5,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_2Zj3Tagob.LjLpFT6EBvn3jI1-CTiJABmtN72sSp2YteuuoN9LHR62V7Xy.WjhDcDnSGJUhsdrn8GEZqD2yX4mtGy0YLZf02pTRyS78RD23VYPtuhGzAPEn8aeFxesA0NuvwN5y5tscH5K3rfus22Gt0QzOB",
+            "amenities": [
+              "pets",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "47",
+                "tag_name": "Restaurant",
+                "icon": "restaurant"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "cleanliness",
+              "aspect_name": "Cleanliness",
+              "aspect_rating_percentage": 90,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Inverness",
+              "poi": "Fort George",
+              "distance": 14.8,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/inverness-443937/hotel/achnagairn-estate-3390600",
+            "show_extra_hotel_info": true,
+            "title": "Group Holidays with a Twist in the Highlands"
+          }
+        }
+      ]
+    },
+    {
+      "type": "footnote",
+      "text": "<p><strong>Originally published in <a href=\"http://magazine.trivago.co.uk/hotels-in-the-highlands/\" target=\"_blank\" rel=\"noopener\">trivago Magazine UK</a>. Feature image courtesy of <a href=\"https://unsplash.com/photos/d9hV7UxeNeI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Danka &amp; Peter</a> on Unsplash</strong></p>\n"
+    },
+    {
+      "type": "courtesy_list",
+      "show_courtesy_list": false,
+      "courtesy_list_title": "",
+      "courtesy_list_contents": []
+    }
+  ],
+  "post_meta": {
+    "template": "posts-templates/performance",
+    "im_city": "",
+    "im_state": "",
+    "im_country": ""
+  },
+  "author": {
+    "name": "Laura Crawford",
+    "slug": "lauracrawford",
+    "image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24093751/l.jpg",
+    "social_networks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "googleplus": null,
+      "pinterest": null
+    }
+  },
+  "seo_href": [
+    {
+      "url": "http://magazine.trivago.co.uk/hotels-in-the-highlands/",
+      "title": "English / UK",
+      "locale": "en-gb"
+    }
+  ],
+  "seo_meta": {
+    "title": "5 Hotels in the Scottish Highlands: Unique Stays in the Great Outdoors",
+    "metadesc": "Edinburgh-based writer Laura Crawford shares her top picks for hotels in the Scottish Highlands ranging from plush luxury hotels to boutique lodges.",
+    "metakeywords": "",
+    "focuskw": "hotels in the scottish highlands",
+    "linkdex": "46",
+    "canonical": "https://magazine.trivago.com/hotels-in-the-scottish-highlands/",
+    "redirect": "",
+    "meta_robots_noindex": "",
+    "meta_robots_nofollow": "",
+    "meta_robots_adv": "",
+    "opengraph_site_name": "trivago Magazine",
+    "opengraph_locale": "en_US",
+    "opengraph_type": "website",
+    "opengraph_description": "Edinburgh-based writer Laura Crawford shares her top picks for hotels in the Scottish Highlands ranging from plush luxury hotels to boutique lodges.",
+    "opengraph_url": "https://magazine.trivago.com/hotels-in-the-scottish-highlands/",
+    "opengraph_image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095645/hotels-in-the-scottish-highlands-danka-peter-148722-unsplash.jpg",
+    "opengraph_title": "5 Hotels in the Scottish Highlands: Unique Stays in the Great Outdoors",
+    "twitter_title": "5 Hotels in the Scottish Highlands: Unique Stays in the Great Outdoors",
+    "twitter_description": "",
+    "twitter_image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24095645/hotels-in-the-scottish-highlands-danka-peter-148722-unsplash.jpg"
+  },
+  "words_count": 0
+}

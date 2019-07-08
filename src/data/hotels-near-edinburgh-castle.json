@@ -1,0 +1,1195 @@
+{
+  "id": 60301,
+  "featured_video": {
+    "desktop_mp4": "",
+    "desktop_full_mp4": "",
+    "desktop_credits_mp4": "",
+    "desktop_ogg": "",
+    "desktop_full_ogg": "",
+    "desktop_credits_ogg": "",
+    "desktop_webm": "",
+    "desktop_full_webm": "",
+    "desktop_credits_webm": "",
+    "mobile_mp4": "",
+    "mobile_full_mp4": "",
+    "mobile_credits_mp4": "",
+    "mobile_ogg": "",
+    "mobile_full_ogg": "",
+    "mobile_credits_ogg": "",
+    "mobile_webm": "",
+    "mobile_full_webm": "",
+    "mobile_credits_webm": "",
+    "video_found": 0
+  },
+  "thumbnail": {
+    "id": "60331",
+    "title": "hotels-near-edinburgh-castle-jorg-angeli-797072-unsplash",
+    "alt": "",
+    "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24104650/hotels-near-edinburgh-castle-jorg-angeli-797072-unsplash.jpg",
+    "courtesy": "",
+    "position": "center"
+  },
+  "thumbnail_url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24104650/hotels-near-edinburgh-castle-jorg-angeli-797072-unsplash.jpg",
+  "slug": "hotels-near-edinburgh-castle",
+  "uri": "http://trivago-magazine-work-sample-server.s3-website.eu-central-1.amazonaws.com/hotels-near-edinburgh-castle/",
+  "title": "7 Hotels Near Edinburgh Castle: A City Break with a Medieval View",
+  "card_title": "Hotels Near Edinburgh Castle for a Medieval City Break",
+  "show_publish_date": false,
+  "date": "January 24th, 2019",
+  "newsletter_popup": false,
+  "newsletter_popup_header_image": false,
+  "taxonomies": {
+    "destinations": [
+      {
+        "name": "Europe",
+        "uri": "/destination/international/europe",
+        "slug": "europe",
+        "term_id": 1384
+      }
+    ],
+    "themes": [],
+    "types": [
+      {
+        "name": "City",
+        "uri": "/type/city",
+        "slug": "city",
+        "term_id": 1379
+      }
+    ],
+    "tags": []
+  },
+  "exclusive": false,
+  "excerpt": "Edinburgh is home to one of Scotland's most impressive castles. With these 7 hotels near Edinburgh Castle, you can easily walk right up to the gates.",
+  "content": [
+    {
+      "type": "intro_text",
+      "text": "<p><p>Central Edinburgh’s storied beauty is matched by its luxury hotels. Slumber in elegant period rooms, sample the fresh flavors of local Scottish produce in atmospheric hotel bistros and let your worries float away in tranquil hotel spas. This list includes some of the oldest buildings in Edinburgh – as much a part of the historic fabric of this city as the castle itself.</p></p><p><p>As these hotels are so centrally located, you’ll be within walking distance of the majestic Edinburgh Castle so you can explore with ease. You’ll also be just minutes away from the cozy shops and cafés of the Old Town and the splendor of the Grassmarket.</p></p>"
+    },
+    {
+      "type": "excerpt_in_article",
+      "text": "<p>Edinburgh is home to one of Scotland's most impressive castles. With these 7 hotels near Edinburgh Castle, you can easily walk right up to the gates.</p>"
+    },
+    {
+      "type": "hotel_module",
+      "title": "Views of the Battlements",
+      "gallery": [
+        {
+          "title": "apex-grassmarket-hotel-room",
+          "alt": "apex-grassmarket-hotel-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102632/apex-grassmarket-hotel-room.jpeg",
+          "height": 650,
+          "width": 972,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-grassmarket-hotel-pool",
+          "alt": "apex-grassmarket-hotel-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102631/apex-grassmarket-hotel-pool.jpeg",
+          "height": 644,
+          "width": 1000,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-grassmarket-hotel-lobby",
+          "alt": "apex-grassmarket-hotel-lobby",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102630/apex-grassmarket-hotel-lobby.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-grassmarket-hotel-lobby1",
+          "alt": "apex-grassmarket-hotel-lobby1",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102631/apex-grassmarket-hotel-lobby1.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 12428,
+        "name": "Apex Grassmarket Hotel",
+        "ratingValue": 83.27,
+        "ratingCount": 6994,
+        "ratingText": "Very good",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_NADK949oAACbpn7rFqO4Liw6bia-VkgcBoj1MP6rydYVjcAluwgWlsKplj9vhbc8gJn-w.SmKocHwcPKhBFx25--adTYzedEMkb2P0B8Wnn.LdUseBQDvGSz7UlEiZVkcVXAaPKEAd8UzIO6hEwHcAViE9fwM3Kyh81WbHkjFEBQEZ1lySrU-YqRQuLDteUN18CHD32j1Ljc0SAc4AGF9183mfHdrrO3T.-5hkBc9l8XXm5bcXhNdX9I8WrnvmJTw04W2YCJ83.REmCWaaW.-iHGEYYtHOjbB9uHjPI9HY4mXuWqX38OvpDjKn-dSI9PiwSpGAFNYUpu",
+        "amenities": [
+          "pool",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 93,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.3,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/apex-grassmarket-hotel-12428",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p><a href=\"https://www.trivago.com/edinburgh-41579/hotel/apex-grassmarket-hotel-12428\" target=\"_blank\" rel=\"noopener\"><strong>The Apex Grassmarket</strong></a> is moments from Edinburgh Castle and also sits opposite the trendy Grassmarket square. Catch one of the many performances that spring up in this creative corner of the city, or tantalize your palate with some rich local haggis or buttery shortbread from one of the local artisan eateries.</p><p>Exceptional Scottish cuisine is available on site: The Metro Bar &amp; Brassiere has a well-deserved reputation as one of the top places to eat along Grassmarket. It serves a rotating menu that includes delicacies like oven-roasted duck breast and beer battered haddock.</p><p>Each of the hotel’s 169 rooms has been carefully tailored to help you unwind, with 42-inch LCD TVs to relax with a film. The deluxe rooms feature balconies and impressive views of the castle’s rugged ramparts. If you’re traveling with kids, Apex will thoughtfully cover the cost of their stay if you’re booked into a family room.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Indulgent Amenities",
+      "gallery": [
+        {
+          "title": "apex-city-of-edinburgh-room",
+          "alt": "apex-city-of-edinburgh-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102659/apex-city-of-edinburgh-room.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-city-of-edinburgh-bar",
+          "alt": "apex-city-of-edinburgh-bar",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102657/apex-city-of-edinburgh-bar.jpg",
+          "height": 666,
+          "width": 1000,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-city-of-edinburgh-lobby",
+          "alt": "apex-city-of-edinburgh-lobby",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102658/apex-city-of-edinburgh-lobby.jpeg",
+          "height": 649,
+          "width": 977,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-city-of-edinburgh-room2",
+          "alt": "apex-city-of-edinburgh-room2",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24102659/apex-city-of-edinburgh-room2.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 12426,
+        "name": "Apex City of Edinburgh Hotel",
+        "ratingValue": 86.54,
+        "ratingCount": 3332,
+        "ratingText": "Excellent",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_9wGZ3Vj9MIKwC45Jaf9vLcMIa0C1H434I8PBmC8P0I39lJZ3NszrVi6GWf8Cpr9rl9BhtDE-ZVM66zbgfrFqUn0BaJMmrdbhHMuRYmbAf.70sUMt6cuyH3oCFjtOfJcK7ANdW9YZ6IYKlEv8-PiFY9z3Nluwa3qSrQRd3zzqqq.2W8p3BMTcBr-ZMHj.fboU07cfqGsG-dsmP8f-jDXqItaMwZzKZ4rnxwhs1dj91AXlOZI.mekfH3SyFGGM.ZzfpE6ICUI.qgfSa1ldqJj2boXxpJU6U97IhLk2-qz7ga-1CPX.0ev.-ELdb27XwYd0wLnOYmwGkQNN.KFR2qwONcJqmQ",
+        "amenities": [
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 94,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.3,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/apex-city-of-edinburgh-12426",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>Whether you opt for a spacious family room, comfortable city room or a stately Master Suite, you’ll have bright but calming décor and views of Edinburgh’s Old Town at the <a href=\"https://www.trivago.com/edinburgh-41579/hotel/apex-city-of-edinburgh-12426\" target=\"_blank\" rel=\"noopener\"><strong>Apex City of Edinburgh Hotel</strong></a>. Refresh with complimentary Elemis toiletries and take a bath with your Apex rubber duck – he’s free to take home as a souvenir.</p><p>Within easy reach of the castle, the Old Town and the city center, this hotel is well-placed for making the most out of your stay in Edinburgh. Head out and explore the Royal Mile, just a few moments’ walk away or climb Castle Hill. Get even more of an insight into the city’s fascinating past at the National Museum of Scotland, also close by.</p><p>Watch the bustle of Grassmarket over a crisp glass of wine at the hotel’s Agua Restaurant &amp; Bar and sit down to a set menu meal that delivers a deliciously modern dining experience: select from dishes such as Scotch beef burger, chicken ballotine or a vegan cassoulet. Afterward, sip a zingy Edinburgh Collins gin cocktail from the bar.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "A Hotel Packed with Historic Charm",
+      "gallery": [
+        {
+          "title": "the-principle-edinburgh-room",
+          "alt": "the-principle-edinburgh-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103149/the-principle-edinburgh-room.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "the-principle-edinburgh-bar",
+          "alt": "the-principle-edinburgh-bar",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103148/the-principle-edinburgh-bar.jpeg",
+          "height": 650,
+          "width": 974,
+          "courtesy": ""
+        },
+        {
+          "title": "the-principle-edinburgh-food",
+          "alt": "the-principle-edinburgh-food",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103148/the-principle-edinburgh-food.jpeg",
+          "height": 650,
+          "width": 974,
+          "courtesy": ""
+        },
+        {
+          "title": "the-principle-edinburgh-room-bathroom",
+          "alt": "the-principle-edinburgh-room-bathroom",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103149/the-principle-edinburgh-room-bathroom.jpeg",
+          "height": 650,
+          "width": 977,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 18718,
+        "name": "The Principal Edinburgh George Street",
+        "ratingValue": 85.25,
+        "ratingCount": 1377,
+        "ratingText": "Excellent",
+        "category": 5,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_anHKwgEOH7xvdL64HnzKzUOgr-wJtQmukyf6WE7r7rfxPj9V5YFrFZ1de0nqHaHe0JtFnYGDajKxaJzn3WyzIcyjM5iFQKTXvfSSR.EiIFpZrYUt0ZB6Gh9bllU-nQ3FDnhpEBvJPn7j-AKmkS-9EcTjVxy.vjyh25N3GMXJXgBD5A4p0OliB77I1jsrKS9MjSOmOCIQ3Oc",
+        "amenities": [
+          "pets",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 95,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.4,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/the-principal-edinburgh-george-street-18718",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>Without doubt one of the oldest hotels in the city, the <a href=\"https://www.trivago.com/edinburgh-41579/hotel/the-principal-edinburgh-george-street-18718\" target=\"_blank\" rel=\"noopener\"><strong>Principal Edinburgh George Street‘</strong></a>s elegant buildings date back to the late 1700s. Rooms are suitably classical, with neutral, warm colors, decorated with paintings and drawings that nod to the rich history of both the building and the city. The Deluxe rooms offer scenic views of the Edinburgh skyline, while the Signature Suites are situated in the old Georgian townhouses that are now part of the hotel.</p><p>Taste the finest Scottish ingredients, artfully assembled into delicious dishes like succulent lamb rump or whole roast plaice at the hotel’s Printing Press restaurant and bar. Once home to writer Susan Ferrier, this elegant and relaxing establishment serves late night cocktails for a delicious nightcap.</p><p>The Burr &amp; Co. café, on the other hand, is just the place to savor a rich morning coffee before exploring the city. With tea sourced from Shibui and a selection of buttery pastries, it’s also a relaxing lunch location. Take your time here before a walk to the lush Queen Street Gardens, which are only a short distance from the hotel.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "A Modern Hotel and Spa Near Edinburgh Castle",
+      "gallery": [
+        {
+          "title": "apex-waterloo-place-room2",
+          "alt": "apex-waterloo-place-room2",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103224/apex-waterloo-place-room2.jpeg",
+          "height": 650,
+          "width": 966,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-waterloo-place-pool",
+          "alt": "apex-waterloo-place-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103223/apex-waterloo-place-pool.jpeg",
+          "height": 526,
+          "width": 1000,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-waterloo-place-exterior",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103222/apex-waterloo-place-exterior.jpeg",
+          "height": 650,
+          "width": 830,
+          "courtesy": ""
+        },
+        {
+          "title": "apex-waterloo-place-room",
+          "alt": "apex-waterloo-place-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103223/apex-waterloo-place-room.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 968807,
+        "name": "Apex Waterloo Place Hotel",
+        "ratingValue": 88.79,
+        "ratingCount": 3999,
+        "ratingText": "Excellent",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_bzZKsx5IfEictoMOEKrYwWHcrztHWO7x1LtfyLuHhPq5h1ihDKyeKEG4yv.komVQRjvu3xBzU73dNonKcnB-nsF63q-PmhOxBoo2TSFtpZD3yAeEPG4Ntv42fH29V0VK7RRSBgTWr1o3rEHVvf4AmcpG.fk2vrLhzk2zRpVEuNAcAa6wSxQKpxM6GgJt5-HqwVO66cG-Yl1eQCgOwsH9b1FfIbC2aCWk9bgBXcu2kAyrdvf4LetF672eFM508GfrhYoCXOP2DGeTpjIwz6CPttWAAk-ZN.poh1uuXzGIUqaRVazFSqJwg.WfFm.3rT3DLLK-SHreHeNZfaGec3w0",
+        "amenities": [
+          "pets",
+          "pool",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 95,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.3,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/apex-waterloo-place-hotel-968807",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>Established in 1819, the <a href=\"https://www.trivago.com/edinburgh-41579/hotel/apex-waterloo-place-hotel-968807\" target=\"_blank\" rel=\"noopener\"><strong>Apex Waterloo Palace Hotel</strong></a> has one foot firmly in the modern and the other in the classic tradition. Elliot’s Bar and Restaurant exemplifies the hotel’s blending of new and old. Grand Georgian windows and contemporary seating create a one-of-a-kind atmosphere – ideal for sampling the hearty Scotch beef burger or spicy Thai broth. In the afternoon, sit down to a refined afternoon tea experience complete with finger sandwiches and scones.</p><p>Head to the hotel spa and take a dip in the sauna or opt for time out in the steam room. The spa also features an ozone pool and Technogym, and its expert staff offers a range of PURE Spa &amp; Beauty treatments to pamper you during your stay.</p><p>In contrast to its prestigious history as one of the first purpose-built hotels in the city, the décor here is calm and modern with splashes of bright color over neutral tones. After winding down in your walk-in shower with Elemis toiletries, relax in front of the 42-inch TV before bed.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "A Victorian Hotel",
+      "gallery": [
+        {
+          "title": "fraser-suites-exterior",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103248/fraser-suites-exterior.jpg",
+          "height": 588,
+          "width": 750,
+          "courtesy": ""
+        },
+        {
+          "title": "fraser-suites-room2",
+          "alt": "fraser-suites-room2",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103249/fraser-suites-room2.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "fraser-suites-restaurant",
+          "alt": "fraser-suites-restaurant",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103248/fraser-suites-restaurant.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "fraser-suites-room",
+          "alt": "fraser-suites-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103249/fraser-suites-room.jpeg",
+          "height": 650,
+          "width": 909,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 940416,
+        "name": "Fraser Suites Edinburgh",
+        "ratingValue": 85.57,
+        "ratingCount": 4067,
+        "ratingText": "Excellent",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_cE22EEdihcSSDXXwnM6o8b7Il9QEYbrhlWgfF3COshrLH64lXvDtWgJOx489nW4gnZ.S23izvOdr7B7TEzbhUn-80zsVD3bnChQQfAieUWRnMR4GLN2k7OZK.BY2wqtl9V1pObW20fL0TfETU0xd0jWNZ8gumTYKeR6IUSBg",
+        "amenities": {
+          "0": "pets",
+          "1": "pool",
+          "3": "wifi"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 96,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.1,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/fraser-suites-edinburgh-940416",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>The historic building of the <a href=\"https://www.trivago.com/edinburgh-41579/hotel/fraser-suites-edinburgh-940416\" target=\"_blank\" rel=\"noopener\"><strong>Fraser Suites</strong></a> is set right in the heart of the city’s Old Town, moments from the castle itself. These luxurious serviced apartments each come complete with a kitchenette, so pay a visit to the farmer’s market behind the castle to source local meats, seafood and cheeses to cook up a tantalizing evening meal.</p><p>You can also dine in the Stocks Urban Bistro &amp; Bar, serving breakfast, lunch, and dinner. Treat yourself to a classic Edinburgh bistro experience with the flavors of chargrilled chicken with wagyu bonbons or brisket beef burger, or pick from the specials menu with mountain cuisine from the Swiss and French Alps.</p><p>Cool whites with warm, earthy highlights give each apartment a sense of tranquillity. Bespoke suites have a private balcony for basking in the sweeping views of the city and castle. Keep active on holiday at the onsite gym, which is open 24 hours and has a wide range of equipment.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "A Hotel with Prestige",
+      "gallery": [
+        {
+          "title": "radisson-blu-hotel-edinburgh-room1",
+          "alt": "radisson-blu-hotel-edinburgh-room1",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103314/radisson-blu-hotel-edinburgh-room1.jpeg",
+          "height": 650,
+          "width": 982,
+          "courtesy": ""
+        },
+        {
+          "title": "radisson-blu-hotel-edinburgh-exterior",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103313/radisson-blu-hotel-edinburgh-exterior.jpeg",
+          "height": 650,
+          "width": 869,
+          "courtesy": ""
+        },
+        {
+          "title": "radisson-blu-hotel-edinburgh-pool",
+          "alt": "radisson-blu-hotel-edinburgh-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103313/radisson-blu-hotel-edinburgh-pool.jpeg",
+          "height": 650,
+          "width": 983,
+          "courtesy": ""
+        },
+        {
+          "title": "radisson-blu-hotel-edinburgh-room2",
+          "alt": "radisson-blu-hotel-edinburgh-room2",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103314/radisson-blu-hotel-edinburgh-room2.jpeg",
+          "height": 650,
+          "width": 972,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 12399,
+        "name": "Radisson Blu Hotel Edinburgh",
+        "ratingValue": 85.86,
+        "ratingCount": 2944,
+        "ratingText": "Excellent",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_n.GGSYL1m7f54x0.BtTz2M3XxfXmXWStAwyonDMG.LCjGW.5weMQkiWsMot2Q1RaLk7ie5hTqF1LFUP3gnZz121GBdOp03.LvdShu0W3rey2GtRojyC5hRqjuISpJ1ts9PAl4eimVkFUS561z-vMj5O3hrFeqGyLQcn-zQ167RCVVszFthvwW0JZxdDbtK8l791T357eyeKtKph0nnFlADS05OcccrShvrQX3yBOVgwpKIy8H3Z3",
+        "amenities": {
+          "0": "pool",
+          "3": "wifi"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 96,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.1,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/radisson-blu-hotel-edinburgh-12399",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>The location of the <a href=\"https://www.trivago.com/edinburgh-41579/hotel/radisson-blu-hotel-edinburgh-12399\" target=\"_blank\" rel=\"noopener\"><strong>Radisson Blu</strong></a> makes this hotel ideally placed for visiting not only the castle but also Holyrood Palace and the Scottish Parliament. Take a short walk to the vantage point of Arthur’s Seat and look over the entirety of central Edinburgh in all its glory. The rooms here also offer impressive views of the city and surrounding area. The ‘Naturally Cool’ color scheme and décor are modern but neutral. For a truly indulgent stay, choose one of the ‘Royal Mile Suites’. Located in the building’s turret, these lavish apartments include a separate lounge and dining area.</p><p>The Melrose spa and gym, located in the hotel, features three separate treatment rooms as well as a sauna and heated indoor pool for calming morning swims. Pair a massage with an afternoon tea for an unforgettable decadent day of self-care.</p><p>There are two restaurants at the Radisson Blu. Prepare for a day’s sightseeing at The Restaurant with a generous cooked breakfast buffet spread, or a light bite of pastries, fruit, and yogurt. Itchycoo Bar &amp; Kitchen is the spot to unwind with a cocktail or two in the evening or dine al-fresco on the terrace.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "A Contemporary Hotel for Whisky Lovers",
+      "gallery": [
+        {
+          "title": "angels-share-bar",
+          "alt": "angels-share-bar",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103342/angels-share-bar.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "angels-share-room",
+          "alt": "angels-share-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103343/angels-share-room.jpeg",
+          "height": 667,
+          "width": 1000,
+          "courtesy": ""
+        },
+        {
+          "title": "angels-share-exterior",
+          "alt": "angels-share-exterior",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103342/angels-share-exterior.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "angels-share-lounge",
+          "alt": "angels-share-lounge",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24103343/angels-share-lounge.jpeg",
+          "height": 562,
+          "width": 1000,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 140624,
+        "name": "Angels Share",
+        "ratingValue": 80.99,
+        "ratingCount": 1866,
+        "ratingText": "Very good",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_XAbQTMYG2Hl-zzUwtozakaagQ1hPPKWVsj8a7iwBAKnNTTDAiaQcXsH52gU50Yi7Ls7ac3qYGmnbZQka8SoLT7nrkrMHqJc8bxE4mcU-mNBpdprHFajIFvH25CBEoXxrB1cEbxu0Y3cZhX67VZ3tnC35vAhh",
+        "amenities": [
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "47",
+            "tag_name": "Restaurant",
+            "icon": "restaurant"
+          },
+          {
+            "tag_id": "31",
+            "tag_name": "Hotel bar",
+            "icon": "bar"
+          },
+          {
+            "tag_id": "62",
+            "tag_name": "WiFi in lobby",
+            "icon": "wifi"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 91,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": {
+          "city": "Edinburgh",
+          "poi": "3D Loch Ness Experience",
+          "distance": 0.7,
+          "unit": "miles"
+        },
+        "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/angels-share-140624",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p><a href=\"https://www.trivago.com/edinburgh-41579/hotel/angels-share-140624\" target=\"_blank\" rel=\"noopener\"><strong>Angel’s Share</strong></a> is named after the small amount of alcohol that evaporates from a whisky barrel during the fermentation process. Fittingly, this hotel has an extensive collection of spirits and whisky. After a day uncovering the secrets of the castle, head to the hotel bar and experience the deep flavors of barrel-aged cocktails, or try the smoky, woody flavors of a 25-year-old Mortlach, and other whiskies from all over Scotland.</p><p>This hip hotel and bar celebrates Scotland’s heritage through vibrant design. Rooms here are decorated in pale tones with colorful touches of contemporary tartan and images of iconic Scots who have helped to weave the country’s rich historical tapestry. LCD TVs are standard in all room types.</p><p>Taste fresh local produce at the restaurant’s à la carte menu, which offers flavourful twists on traditional Scottish favorites, like veggie haggis pakoras. There’s also an exclusive grill menu featuring prime cuts of beef, including ribeye and flat iron steaks.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "table_of_contents",
+      "show": true,
+      "header": "Hotels in this article",
+      "table_of_contents": [
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 12428,
+            "name": "Apex Grassmarket Hotel",
+            "ratingValue": 83.27,
+            "ratingCount": 6994,
+            "ratingText": "Very good",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_NADK949oAACbpn7rFqO4Liw6bia-VkgcBoj1MP6rydYVjcAluwgWlsKplj9vhbc8gJn-w.SmKocHwcPKhBFx25--adTYzedEMkb2P0B8Wnn.LdUseBQDvGSz7UlEiZVkcVXAaPKEAd8UzIO6hEwHcAViE9fwM3Kyh81WbHkjFEBQEZ1lySrU-YqRQuLDteUN18CHD32j1Ljc0SAc4AGF9183mfHdrrO3T.-5hkBc9l8XXm5bcXhNdX9I8WrnvmJTw04W2YCJ83.REmCWaaW.-iHGEYYtHOjbB9uHjPI9HY4mXuWqX38OvpDjKn-dSI9PiwSpGAFNYUpu",
+            "amenities": [
+              "pool",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 93,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.3,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/apex-grassmarket-hotel-12428",
+            "show_extra_hotel_info": true,
+            "title": "Views of the Battlements"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 12426,
+            "name": "Apex City of Edinburgh Hotel",
+            "ratingValue": 86.54,
+            "ratingCount": 3332,
+            "ratingText": "Excellent",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_9wGZ3Vj9MIKwC45Jaf9vLcMIa0C1H434I8PBmC8P0I39lJZ3NszrVi6GWf8Cpr9rl9BhtDE-ZVM66zbgfrFqUn0BaJMmrdbhHMuRYmbAf.70sUMt6cuyH3oCFjtOfJcK7ANdW9YZ6IYKlEv8-PiFY9z3Nluwa3qSrQRd3zzqqq.2W8p3BMTcBr-ZMHj.fboU07cfqGsG-dsmP8f-jDXqItaMwZzKZ4rnxwhs1dj91AXlOZI.mekfH3SyFGGM.ZzfpE6ICUI.qgfSa1ldqJj2boXxpJU6U97IhLk2-qz7ga-1CPX.0ev.-ELdb27XwYd0wLnOYmwGkQNN.KFR2qwONcJqmQ",
+            "amenities": [
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 94,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.3,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/apex-city-of-edinburgh-12426",
+            "show_extra_hotel_info": true,
+            "title": "Indulgent Amenities"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 18718,
+            "name": "The Principal Edinburgh George Street",
+            "ratingValue": 85.25,
+            "ratingCount": 1377,
+            "ratingText": "Excellent",
+            "category": 5,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_anHKwgEOH7xvdL64HnzKzUOgr-wJtQmukyf6WE7r7rfxPj9V5YFrFZ1de0nqHaHe0JtFnYGDajKxaJzn3WyzIcyjM5iFQKTXvfSSR.EiIFpZrYUt0ZB6Gh9bllU-nQ3FDnhpEBvJPn7j-AKmkS-9EcTjVxy.vjyh25N3GMXJXgBD5A4p0OliB77I1jsrKS9MjSOmOCIQ3Oc",
+            "amenities": [
+              "pets",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 95,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.4,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/the-principal-edinburgh-george-street-18718",
+            "show_extra_hotel_info": true,
+            "title": "A Hotel Packed with Historic Charm"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 968807,
+            "name": "Apex Waterloo Place Hotel",
+            "ratingValue": 88.79,
+            "ratingCount": 3999,
+            "ratingText": "Excellent",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_bzZKsx5IfEictoMOEKrYwWHcrztHWO7x1LtfyLuHhPq5h1ihDKyeKEG4yv.komVQRjvu3xBzU73dNonKcnB-nsF63q-PmhOxBoo2TSFtpZD3yAeEPG4Ntv42fH29V0VK7RRSBgTWr1o3rEHVvf4AmcpG.fk2vrLhzk2zRpVEuNAcAa6wSxQKpxM6GgJt5-HqwVO66cG-Yl1eQCgOwsH9b1FfIbC2aCWk9bgBXcu2kAyrdvf4LetF672eFM508GfrhYoCXOP2DGeTpjIwz6CPttWAAk-ZN.poh1uuXzGIUqaRVazFSqJwg.WfFm.3rT3DLLK-SHreHeNZfaGec3w0",
+            "amenities": [
+              "pets",
+              "pool",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 95,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.3,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/apex-waterloo-place-hotel-968807",
+            "show_extra_hotel_info": true,
+            "title": "A Modern Hotel and Spa Near Edinburgh Castle"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 940416,
+            "name": "Fraser Suites Edinburgh",
+            "ratingValue": 85.57,
+            "ratingCount": 4067,
+            "ratingText": "Excellent",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_cE22EEdihcSSDXXwnM6o8b7Il9QEYbrhlWgfF3COshrLH64lXvDtWgJOx489nW4gnZ.S23izvOdr7B7TEzbhUn-80zsVD3bnChQQfAieUWRnMR4GLN2k7OZK.BY2wqtl9V1pObW20fL0TfETU0xd0jWNZ8gumTYKeR6IUSBg",
+            "amenities": {
+              "0": "pets",
+              "1": "pool",
+              "3": "wifi"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 96,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.1,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/fraser-suites-edinburgh-940416",
+            "show_extra_hotel_info": true,
+            "title": "A Victorian Hotel"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 12399,
+            "name": "Radisson Blu Hotel Edinburgh",
+            "ratingValue": 85.86,
+            "ratingCount": 2944,
+            "ratingText": "Excellent",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_n.GGSYL1m7f54x0.BtTz2M3XxfXmXWStAwyonDMG.LCjGW.5weMQkiWsMot2Q1RaLk7ie5hTqF1LFUP3gnZz121GBdOp03.LvdShu0W3rey2GtRojyC5hRqjuISpJ1ts9PAl4eimVkFUS561z-vMj5O3hrFeqGyLQcn-zQ167RCVVszFthvwW0JZxdDbtK8l791T357eyeKtKph0nnFlADS05OcccrShvrQX3yBOVgwpKIy8H3Z3",
+            "amenities": {
+              "0": "pool",
+              "3": "wifi"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 96,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.1,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/radisson-blu-hotel-edinburgh-12399",
+            "show_extra_hotel_info": true,
+            "title": "A Hotel with Prestige"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 140624,
+            "name": "Angels Share",
+            "ratingValue": 80.99,
+            "ratingCount": 1866,
+            "ratingText": "Very good",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_XAbQTMYG2Hl-zzUwtozakaagQ1hPPKWVsj8a7iwBAKnNTTDAiaQcXsH52gU50Yi7Ls7ac3qYGmnbZQka8SoLT7nrkrMHqJc8bxE4mcU-mNBpdprHFajIFvH25CBEoXxrB1cEbxu0Y3cZhX67VZ3tnC35vAhh",
+            "amenities": [
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "47",
+                "tag_name": "Restaurant",
+                "icon": "restaurant"
+              },
+              {
+                "tag_id": "31",
+                "tag_name": "Hotel bar",
+                "icon": "bar"
+              },
+              {
+                "tag_id": "62",
+                "tag_name": "WiFi in lobby",
+                "icon": "wifi"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 91,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": {
+              "city": "Edinburgh",
+              "poi": "3D Loch Ness Experience",
+              "distance": 0.7,
+              "unit": "miles"
+            },
+            "homePageURL": "https://www.trivago.com/edinburgh-41579/hotel/angels-share-140624",
+            "show_extra_hotel_info": true,
+            "title": "A Contemporary Hotel for Whisky Lovers"
+          }
+        }
+      ]
+    },
+    {
+      "type": "footnote",
+      "text": "<p><strong>This article originally appeared in <a href=\"http://magazine.trivago.co.uk/hotels-near-edinburgh-castle/\" target=\"_blank\" rel=\"noopener\">trivago Magazine UK</a>. Feature image courtesy of <a href=\"https://unsplash.com/photos/S56zN8cV5fk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\" target=\"_blank\" rel=\"noopener\">Jörg Angeli</a> on <a href=\"https://unsplash.com/search/photos/edinburgh-castle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\" target=\"_blank\" rel=\"noopener\">Unsplash</a></strong></p>\n"
+    },
+    {
+      "type": "courtesy_list",
+      "show_courtesy_list": false,
+      "courtesy_list_title": "",
+      "courtesy_list_contents": []
+    }
+  ],
+  "post_meta": {
+    "template": "posts-templates/performance",
+    "im_city": "",
+    "im_state": "",
+    "im_country": ""
+  },
+  "author": {
+    "name": "trivago Magazine",
+    "slug": "trivago",
+    "image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/23131451/m.jpg",
+    "social_networks": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "googleplus": "",
+      "pinterest": ""
+    }
+  },
+  "seo_href": [
+    {
+      "url": "http://magazine.trivago.co.uk/hotels-near-edinburgh-castle/",
+      "title": "English / UK",
+      "locale": "en-gb"
+    }
+  ],
+  "seo_meta": {
+    "title": "7 Hotels Near Edinburgh Castle: A City Break with a Medieval View",
+    "metadesc": "Edinburgh is home to one of Scotland's most impressive castles. With these 7 hotels near Edinburgh Castle, you can easily walk right up to the gates.",
+    "metakeywords": "",
+    "focuskw": "hotels near edinburgh castle",
+    "linkdex": "49",
+    "canonical": "https://magazine.trivago.com/hotels-near-edinburgh-castle/",
+    "redirect": "",
+    "meta_robots_noindex": "",
+    "meta_robots_nofollow": "",
+    "meta_robots_adv": "",
+    "opengraph_site_name": "trivago Magazine",
+    "opengraph_locale": "en_US",
+    "opengraph_type": "website",
+    "opengraph_description": "Edinburgh is home to one of Scotland's most impressive castles. With these 7 hotels near Edinburgh Castle, you can easily walk right up to the gates.",
+    "opengraph_url": "https://magazine.trivago.com/hotels-near-edinburgh-castle/",
+    "opengraph_image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24104650/hotels-near-edinburgh-castle-jorg-angeli-797072-unsplash.jpg",
+    "opengraph_title": "7 Hotels Near Edinburgh Castle: A City Break with a Medieval View",
+    "twitter_title": "7 Hotels Near Edinburgh Castle: A City Break with a Medieval View",
+    "twitter_description": "",
+    "twitter_image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24104650/hotels-near-edinburgh-castle-jorg-angeli-797072-unsplash.jpg"
+  },
+  "words_count": 0
+}

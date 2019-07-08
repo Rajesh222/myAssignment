@@ -1,0 +1,1260 @@
+{
+  "id": 60335,
+  "featured_video": {
+    "desktop_mp4": "",
+    "desktop_full_mp4": "",
+    "desktop_credits_mp4": "",
+    "desktop_ogg": "",
+    "desktop_full_ogg": "",
+    "desktop_credits_ogg": "",
+    "desktop_webm": "",
+    "desktop_full_webm": "",
+    "desktop_credits_webm": "",
+    "mobile_mp4": "",
+    "mobile_full_mp4": "",
+    "mobile_credits_mp4": "",
+    "mobile_ogg": "",
+    "mobile_full_ogg": "",
+    "mobile_credits_ogg": "",
+    "mobile_webm": "",
+    "mobile_full_webm": "",
+    "mobile_credits_webm": "",
+    "video_found": 0
+  },
+  "thumbnail": {
+    "id": "60427",
+    "title": "Bambina fa il bagno in mare con la maschera",
+    "alt": "virginia beach oceanfront hotels",
+    "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/28091622/virginia-beach-oceanfront-hotels-dario-fotolia.jpg",
+    "courtesy": "",
+    "position": "center"
+  },
+  "thumbnail_url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/28091622/virginia-beach-oceanfront-hotels-dario-fotolia.jpg",
+  "slug": "virginia-beach-oceanfront-hotels",
+  "uri": "http://trivago-magazine-work-sample-server.s3-website.eu-central-1.amazonaws.com/virginia-beach-oceanfront-hotels/",
+  "title": "8 Virginia Beach Oceanfront Hotels: Explore the Boardwalk and Hit the Beach",
+  "card_title": "Virginia Beach Oceanfront Hotels",
+  "show_publish_date": false,
+  "date": "January 28th, 2019",
+  "newsletter_popup": false,
+  "newsletter_popup_header_image": false,
+  "taxonomies": {
+    "destinations": [
+      {
+        "name": "Southeast",
+        "uri": "/destination/usa/southeast",
+        "slug": "southeast",
+        "term_id": 1359
+      }
+    ],
+    "themes": [],
+    "types": [
+      {
+        "name": "Beach",
+        "uri": "/type/beach",
+        "slug": "beach",
+        "term_id": 1378
+      }
+    ],
+    "tags": []
+  },
+  "exclusive": false,
+  "excerpt": "Sunsets, sunscreen, and sand. That's summer in Virginia Beach. Check out these 8 Virginia Beach oceanfront hotels to experience the best of it all.",
+  "content": [
+    {
+      "type": "intro_text",
+      "text": "<p><p>The ocean glows pink and gold as the sun begins to rise above the sea, slowly brightening the sky before setting it on fire. This early in the morning, the wide stretch of golden sand that fronts the three-mile-long Virginia Beach Boardwalk is mostly deserted. There&#8217;s a couple out for a stroll, pausing every so often to pick up sea shells. Nearby a woman is fiddling with her headphones, jogging in place.</p></p><p><p>The water is warm, and past the breaking waves, calm, so I swim out and float on my back as the sky turns a brilliant blue. In a few hours this wide swath of sand and deep blue sea will be buzzing. From above, it&#8217;ll resemble a brightly colored tapestry with rows of people on chairs and towels; bobbing in the sea or biking along the boardwalk beyond it. The air will smell of sunscreen and funnel cakes and french fries; be filled with the happy screech of children, the beats of competing hits blaring from personal speakers. It will be loud and chaotic and fun.</p></p><p><p>This is what I love most about Virginia Beach &#8212; the constantly shifting energy. You can go from solitude to party in a matter of hours and have memorable experiences with both. These eight Virginia Beach oceanfront hotels allow you to effortlessly enjoy it all.</p></p>"
+    },
+    {
+      "type": "excerpt_in_article",
+      "text": "<p>Sunsets, sunscreen, and sand. That's summer in Virginia Beach. Check out these 8 Virginia Beach oceanfront hotels to experience the best of it all.</p>"
+    },
+    {
+      "type": "hotel_module",
+      "title": "Right on the Boardwalk",
+      "gallery": [
+        {
+          "title": "hilton-garden-inn-virginia-beach",
+          "alt": "hilton-garden-inn-virginia-beach",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24121508/hilton-garden-inn-virginia-beach.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "hilton-garden-inn-virginia-beach-room.jpeg-",
+          "alt": "hilton-garden-inn-virginia-beach-room.jpeg-",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24121508/hilton-garden-inn-virginia-beach-room.jpeg-.jpeg",
+          "height": 562,
+          "width": 1000,
+          "courtesy": ""
+        },
+        {
+          "title": "hilton-garden-inn-virginia-beach-bar",
+          "alt": "hilton-garden-inn-virginia-beach-bar",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24121507/hilton-garden-inn-virginia-beach-bar.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "hilton-garden-inn-virginia-beach-pool",
+          "alt": "hilton-garden-inn-virginia-beach-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24121507/hilton-garden-inn-virginia-beach-pool.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 3142692,
+        "name": "Hilton Garden Inn Virginia Beach Oceanfront, VA",
+        "ratingValue": 88.12,
+        "ratingCount": 930,
+        "ratingText": "Excellent",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_4O-T6S-WRFnqYx.UNO8NxgZs4ZON3sT-lWJRf0fN3eJ61P0nR-1cRVdLWUpMN3G9cwwClKeaR9ONCXsuqT4kKJkH3IX1OhUv4fsNZMo1GFyu1.1RkfZtcpA7fDTJC.k6jWEEU2QFAQZfj46qcBXMHR-MuligTurKTBIb5q25Jg2vnkeHAHU",
+        "amenities": [
+          "pets",
+          "beach",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          },
+          {
+            "tag_id": "47",
+            "tag_name": "Restaurant",
+            "icon": "restaurant"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 94,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/hilton-garden-inn-virginia-beach-oceanfront-va-3142692",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>Getting up in time to watch the sun rise over the Atlantic Ocean is easy when you&#8217;re staying at the <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/hilton-garden-inn-virginia-beach-oceanfront-va-3142692\" target=\"_blank\" rel=\"noopener\"><strong>Hilton Garden Inn</strong></a> thanks to its prime location on the Virginia Beach Boardwalk. The 167 rooms and suites here are clean and contemporary with at least partial sea views from floor-to-ceiling windows leading out to balconies. The decor features pops of bold colors and framed local photography &#8212; in one room a plush red armchair fronts a photo of the King Neptune statue that graces the beachfront.</p><p>You can hang out at the beach, but if you&#8217;re craving a soak <em>sans</em> sand, then head to the hotel&#8217;s indoor and outdoor swimming pools and plop a squat in a chaise lounger set over the edge of the pool. There&#8217;s also a sun deck on the third floor that offers sweeping ocean views and people watching on the boardwalk below.</p><p>When it&#8217;s time for dinner, the house restaurant, Lager Heads, serves some of the best burgers on the boardwalk. The menu includes creative choices like the Crab Benedict Burger (a beef patty topped with crab meat and smoky hollandaise sauce) and the Triple Ale Turkey Burger offers up a turkey burger with ale battered zucchini and BBQ sauce. They also offer a carefully curated collection of microbrews from across the country that go down smooth on a hot summer day.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Modern Luxury and Live Music",
+      "gallery": [
+        {
+          "title": "hilton-virginia-beach-oceanfront-beach",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122039/hilton-virginia-beach-oceanfront-beach.jpeg",
+          "height": 650,
+          "width": 870,
+          "courtesy": ""
+        },
+        {
+          "title": "hilton-virginia-beach-oceanfront-pool1",
+          "alt": "hilton-virginia-beach-oceanfront-pool1",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122040/hilton-virginia-beach-oceanfront-pool1.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "hilton-virginia-beach-oceanfront-room1",
+          "alt": "hilton-virginia-beach-oceanfront-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122040/hilton-virginia-beach-oceanfront-room1.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "hilton-virginia-beach-oceanfront-food",
+          "alt": "hilton-virginia-beach-oceanfront-food",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122039/hilton-virginia-beach-oceanfront-food.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 74522,
+        "name": "Hilton Virginia Beach Oceanfront",
+        "ratingValue": 81.97,
+        "ratingCount": 1963,
+        "ratingText": "Very good",
+        "category": 4,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_liETSHG7nEfFKC4TmuQhP6.QjyFYKL8psp1feqb7jDPLOqyBS2SBVSnFnOPu6GozuwZxK4SO-y.Ec.bSsJWoUCm-18afssQzF6.YsatXaoTT83OKWngFnIG3djHg0izeCYA5rGzj5OdV8xh11VbEKw",
+        "amenities": [
+          "pool",
+          "beach",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 91,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/hilton-virginia-beach-oceanfront-74522",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>At the northern end of the boardwalk, Neptune Park boasts an impressive monument of the Roman god of the sea, Neptune. Beyond the 24-foot-tall bronze sculpture, the park is known for free nightly summer concerts from its stage adjacent to the patio for Catch 31, which is one of two restaurants at the <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/hilton-virginia-beach-oceanfront-74522\" target=\"_blank\" rel=\"noopener\"><strong>Hilton Virginia Beach Oceanfront</strong></a>. The grassy park also hosts a number of seasonal festivals. Come in May for the International Wine Festival or in August for Coastal Craft Beer.</p><p>Back at the Hilton, you&#8217;ll find a relatively luxe, mid-sized resort in a high-rise building with rooms and suites done up in a contemporary style, many with sea-facing balconies. There&#8217;s a rooftop infinity swimming pool and bar that you shouldn&#8217;t skip. When the sun begins to set the sky turns all shades of pink and purple and makes the water glow as the lights of the boardwalk turn up. Although the sun doesn&#8217;t sink directly over the sea in Virginia Beach (that happens over on the Chesapeake Bay side), the colors are still stupendous.</p><p>Afterward, head to the aforementioned Catch 31 for fresh Chesapeake Bay oysters or a wood-oven baked flatbread pizza. Grab a seat on the patio by the fire pit to listen to the live music from one of Neptune Park&#8217;s free summer concerts. The other on-site restaurant, Salacia, is more formal. It focuses on pairing a glass of fine wine with steak and seafood and makes for a wonderful spot to celebrate a romantic milestone.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Bike The Boardwalk",
+      "gallery": [
+        {
+          "title": "comfort-inn-suites-virginia-beach-jacuzzi",
+          "alt": "",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122453/comfort-inn-suites-virginia-beach-jacuzzi.jpeg",
+          "height": 641,
+          "width": 1000,
+          "courtesy": ""
+        },
+        {
+          "title": "comfort-inn-suites-virginia-beach",
+          "alt": "comfort-inn-suites-virginia-beach",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122455/comfort-inn-suites-virginia-beach.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "comfort-inn-suites-virginia-beach-room",
+          "alt": "comfort-inn-suites-virginia-beach-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122454/comfort-inn-suites-virginia-beach-room.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "comfort-inn-suites-virginia-beach-water-view",
+          "alt": "comfort-inn-suites-virginia-beach-water-view",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122454/comfort-inn-suites-virginia-beach-water-view.jpeg",
+          "height": 650,
+          "width": 972,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 69988,
+        "name": "Comfort Inn & Suites Virginia Beach - Oceanfront",
+        "ratingValue": 88.7,
+        "ratingCount": 1446,
+        "ratingText": "Excellent",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_AU1sCufhkUixYS6.gv-QvSqpV.Qge.la8IjvnYtvO0G8ljYddp6VqkV5ePkLgGFhYOP-MxjZJ116lXeh3qWx5LTqipK-.QyWht-uWrI7eD4ctFZgV6sYMUdE3Ioboq1M80v6LnBOFBT80pISxPF4C8R3ACczQzlggQ",
+        "amenities": {
+          "0": "pets",
+          "1": "pool",
+          "3": "beach",
+          "5": "wifi",
+          "7": "breakfast"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 94,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/comfort-inn---suites-virginia-beach---oceanfront-69988",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>The Virginia Beach Boardwalk runs for 40 blocks or three miles, and the <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/comfort-inn---suites-virginia-beach---oceanfront-69988\" target=\"_blank\" rel=\"noopener\"><strong>Comfort Inn &amp; Suites Virginia Beach</strong></a> is set in the middle, making it great for exploring in either direction. One of the best ways to get from one end of the boardwalk to the other is on a bike, and you can rent one from <a href=\"https://www.cheriesbikerentals.com/\" target=\"_blank\" rel=\"noopener\">Cherie&#8217;s Bicycle &amp; Blade Rentals</a>, which has 15 boardwalk outposts including one right by the hotel.</p><p>If you&#8217;re feeling lazy, rooms and suites here all feature ocean views from furnished balconies. You can easily pass a few hours reading in the sunshine. Also onsite is an indoor swimming pool and hot tub that has boardwalk views thanks to a wall of floor-to-ceiling windows.</p><p>Come morning, you can fill up on eggs and bacon for free at the complimentary hot breakfast buffet before trying your hand at surfing. Virginia Beach is an ideal spot to try the sport out for the first time. The waves are forgiving and there are numerous shops that can organize board rentals or lessons.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Escape The Crowds",
+      "gallery": [
+        {
+          "title": "turtle-cay-resort-pool",
+          "alt": "turtle-cay-resort-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122857/turtle-cay-resort-pool.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "turtle-cay-resort-loungers",
+          "alt": "turtle-cay-resort-loungers",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122856/turtle-cay-resort-loungers.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "turtle-cay-resort-room",
+          "alt": "turtle-cay-resort-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24122857/turtle-cay-resort-room.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 62937,
+        "name": "Turtle Cay Resort",
+        "ratingValue": 81.97,
+        "ratingCount": 1003,
+        "ratingText": "Very good",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_9FrEKvNrEvWDWfmYiTW1BPTJXv3Jy6mVlNn9ZoD6tlRz3rxnCYF5mguf8tnRw0sqt8avIXKxN6GIY1D1U8rk06bHlKgGgjPgSdnxuz.I3il4UZJpRvfEWlepUl4DhLGFQ4PUD0eyWIgVtbP1bm-1n-Ea9pI",
+        "amenities": {
+          "0": "pool",
+          "1": "wifi",
+          "3": "breakfast"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "35",
+            "tag_name": "Outdoor swimming pool",
+            "icon": "pool"
+          },
+          {
+            "tag_id": "47",
+            "tag_name": "Restaurant",
+            "icon": "restaurant"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 87,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/turtle-cay-resort-62937",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p><a href=\"https://www.trivago.com/virginia-beach-35094/hotel/turtle-cay-resort-62937\" target=\"_blank\" rel=\"noopener\"><strong>Turtle Cay Resort</strong></a> sits on the southern end of Virginia Beach and is a respite for those in search of a little less partying and a bit more nature. Here you have easy access to natural attractions like False Cape State Park, Cape Henry Memorial State Park and the Back Bay National Wildlife Refuge, which offer hiking and biking as well as bird-watching opportunities.</p><p>Lodging comes in a mix of studio, one and two-bedroom suites with partial kitchens, making it a top family choice. The well-maintained grounds also host plenty of cushioned sun-loungers for relaxing and two swimming pools and hot tubs. There&#8217;s no on-site restaurant here, but you&#8217;re surrounded by plenty of options within a short walk. Mahi Mah&#8217;s Seafood Restaurant and Sushi Saloon is one popular option, serving steamer seafood buckets on a big patio and offering happy hour food and drink specials. There&#8217;s also Chix Seaside Grille &amp; Bar on the beachfront that serves American fare and fresh seafood late into the night.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Families, Couples -- Everyone's Welcome",
+      "gallery": [
+        {
+          "title": "ocean-beach-club-pool-2",
+          "alt": "ocean-beach-club-pool-2",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123257/ocean-beach-club-pool-2.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "ocean-beach-club-room",
+          "alt": "ocean-beach-club-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123258/ocean-beach-club-room.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "ocean-beach-club-pool",
+          "alt": "ocean-beach-club-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123257/ocean-beach-club-pool.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 836701,
+        "name": "Ocean Beach Club",
+        "ratingValue": 80.27,
+        "ratingCount": 3158,
+        "ratingText": "Very good",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_CBzgBk2sd-RAAXmapq4tfCvNwszbie9ruuPKpDYwKJoWdE.E1cBfexqt-2dDcLceiFd9UNbJxpVDZ-aGMoqpFmvlQoAj7zCC5FnGpJu6RjCOrm0wOkgsRR6CE5lp0JV8dHcxQwyY8SPQtbM-iSmIWBstNjWEnt0zgg",
+        "amenities": {
+          "0": "pool",
+          "3": "beach",
+          "4": "wifi",
+          "6": "breakfast"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          },
+          {
+            "tag_id": "36",
+            "tag_name": "Indoor swimming pool",
+            "icon": "pool"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 90,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/ocean-beach-club-836701",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>The <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/ocean-beach-club-836701\" target=\"_blank\" rel=\"noopener\"><strong>Ocean Beach Club</strong></a> is another top choice on the Boardwalk&#8217;s north side. Housed in an 18-story tower, families will like the suites, which feature colorful furnishings, including a sleeper sofa for the kids.</p><p>There are four swimming pools onsite, including one for kids. But couples will dig the adults-only infinity pool with beverage service. If you order one too many and need to work off some calories, grab your partner and head to the impressive 17th-floor gym. Here you can get a cardio fix at a machine fronting floor-to-ceiling windows.</p><p>For dining, there&#8217;s Tortuga&#8217;s Cafe and Tiki Bar, which is open seasonally and serves regional specialties like Chesapeake Bay crab cakes along with pub grub favorites like nachos in an al fresco environment. Also onsite is Ultra Craft Cocktails Lounge, which has a sophisticated look and inventive cocktails like an Orange Creamsicle martini.</p><p>If you&#8217;re staying at Ocean Beach Club, you have no excuse not to hit up <a href=\"http://www.pocahontaspancakes.com/\" target=\"_blank\" rel=\"noopener\">Pocahontas Pancakes</a> — a local institution just a block away (head north on Atlantic Ave and make the first left on 35th St). There&#8217;s a line out the door most mornings, but it&#8217;s the worth the wait for the best breakfast in town. The pancakes are known for their fluffiness and one of the most popular items on the menu. Get some topped with everything from bananas to chocolate chips and sausage links. Or try a breakfast sandwich &#8212; two eggs over hard with cheese, bacon on a giant English muffin with a side of home fries is a surefire hangover cure.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Boardwalk Convenience",
+      "gallery": [
+        {
+          "title": "courtyard-virginia-beach-oceanfront-balcony",
+          "alt": "courtyard-virginia-beach-oceanfront-balcony",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123703/courtyard-virginia-beach-oceanfront-balcony.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "courtyard-virginia-beach-oceanfront-pool",
+          "alt": "courtyard-virginia-beach-oceanfront-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123704/courtyard-virginia-beach-oceanfront-pool.jpeg",
+          "height": 650,
+          "width": 938,
+          "courtesy": ""
+        },
+        {
+          "title": "courtyard-virginia-beach-oceanfront-room",
+          "alt": "courtyard-virginia-beach-oceanfront-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123705/courtyard-virginia-beach-oceanfront-room.jpeg",
+          "height": 650,
+          "width": 938,
+          "courtesy": ""
+        },
+        {
+          "title": "courtyard-virginia-beach-oceanfront",
+          "alt": "courtyard-virginia-beach-oceanfront",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24123707/courtyard-virginia-beach-oceanfront.jpeg",
+          "height": 650,
+          "width": 938,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 73617,
+        "name": "Courtyard Virginia Beach Oceanfront",
+        "ratingValue": 85.15,
+        "ratingCount": 919,
+        "ratingText": "Excellent",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_dK38EKIDfsEw8A5mSozwEq6u1hIoFs0GsPIgfCPDpthXCgEpdRbQCn-euimSW0F6HuGZLfQ.Vz9p6CSbLNH.KXedOMGYXTZmhyQuR6cFv5rWhxY4GH7zC5cOMj-XxIjTjKdyXdd2AzWuYOgQ2XpyRwxzEB05",
+        "amenities": [
+          "pets",
+          "pool",
+          "beach",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "30",
+            "tag_name": "Pets allowed",
+            "icon": "pet"
+          },
+          {
+            "tag_id": "60",
+            "tag_name": "Wellness center / Spa",
+            "icon": "spa"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 92,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/courtyard-virginia-beach-oceanfront-73617",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>Boardwalk Convenience at the <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/courtyard-virginia-beach-oceanfront-73617\" target=\"_blank\" rel=\"noopener\"><strong>Courtyard Virginia Beach Oceanfront</strong></a><br />In a modern white and teal glass building right on the boardwalk, the Courtyard Virginia Beach Oceanfront is a good value option that&#8217;s walking distance from some adrenaline pumping attractions. One of these is iFly Virginia Beach, which is indoor sky diving in a gravity-defying wind tunnel. It&#8217;s a safe alternative to actually jumping out of an airplane.</p><p>The rooms and suites here feature crisp white linens and artistic design like a wall painted with seagulls flying through a wispy white cloud sky. Away from the rooms, amenities include indoor and outdoor swimming pools and a restaurant serving a hot breakfast for a fee (choose from the buffet or a la carte options.) There&#8217;s no other restaurant onsite, but you can order delivery to your room from area restaurants. You&#8217;ll find menus among the hotel materials in your room.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Family Focus",
+      "gallery": [
+        {
+          "title": "hotel-holiday-inn-suites-north-beach-pool",
+          "alt": "hotel-holiday-inn-suites-north-beach-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24140630/hotel-holiday-inn-suites-north-beach-pool.jpeg",
+          "height": 650,
+          "width": 941,
+          "courtesy": ""
+        },
+        {
+          "title": "hotel-holiday-inn-suites-north-beach-room",
+          "alt": "hotel-holiday-inn-suites-north-beach-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24140631/hotel-holiday-inn-suites-north-beach-room.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        },
+        {
+          "title": "hotel-holiday-inn-suites-north-beach",
+          "alt": "hotel-holiday-inn-suites-north-beach",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24140631/hotel-holiday-inn-suites-north-beach.jpeg",
+          "height": 649,
+          "width": 871,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 72715,
+        "name": "Holiday Inn & Suites North Beach",
+        "ratingValue": 82.64,
+        "ratingCount": 1449,
+        "ratingText": "Very good",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_s2HwAPPgANOww70Unj5Yf389q9SE4E8sFfg14KqTWDFWFcWHNW3UZbeH2sUIAGwheFBRunlnZ-yPIw2mMwB2REQzdVsJ1cualA8L5bVdWoNYAAyOC9l3aLKkeYflw5qZRVKXSMraCeTQEIMMS-9X1v6t3uSa1YY3.A",
+        "amenities": {
+          "0": "pool",
+          "3": "beach",
+          "4": "wifi"
+        },
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          },
+          {
+            "tag_id": "36",
+            "tag_name": "Indoor swimming pool",
+            "icon": "pool"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 89,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/holiday-inn---suites-north-beach-72715",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>From a splash park in the lagoon-style swimming pool to a 48-seat movie theater, there&#8217;s plenty to keep the kids entertained at the <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/holiday-inn---suites-north-beach-72715\" target=\"_blank\" rel=\"noopener\"><strong>Holiday Inn &amp; Suites North Beach</strong></a> — a family favorite on the boardwalk&#8217;s northern side. Budget travelers will be happy to know that children eat free at the breakfast buffet.</p><p>The 238 rooms and suites are comfortable with stylish, updated furnishings, and partial ocean views from furnished balconies. Also worth mentioning is the relaxed ambiance of the public spaces where indoor and outdoor spaces blend together thanks to pocket glass walls. One such space is between the outdoor swimming pool and the adjacent Square Whale restaurant, where you can dine at the edge of the pool. There are also two other restaurants onsite. The sixth-floor Isle of Capri serves hearty Italian cuisine and a lengthy wine list alongside panoramic ocean views.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "hotel_module",
+      "title": "Retro Beach Vibe",
+      "gallery": [
+        {
+          "title": "four-points-by-sheraton-virginia-beach-oceanfront",
+          "alt": "four-points-by-sheraton-virginia-beach-oceanfront",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24141250/four-points-by-sheraton-virginia-beach-oceanfront.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "four-points-by-sheraton-virginia-beach-oceanfront-beach-view",
+          "alt": "four-points-by-sheraton-virginia-beach-oceanfront-beach-view",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24141248/four-points-by-sheraton-virginia-beach-oceanfront-beach-view.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "four-points-by-sheraton-virginia-beach-oceanfront-indoor-pool",
+          "alt": "four-points-by-sheraton-virginia-beach-oceanfront-indoor-pool",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24141249/four-points-by-sheraton-virginia-beach-oceanfront-indoor-pool.jpeg",
+          "height": 650,
+          "width": 976,
+          "courtesy": ""
+        },
+        {
+          "title": "four-points-by-sheraton-virginia-beach-oceanfront-room",
+          "alt": "four-points-by-sheraton-virginia-beach-oceanfront-room",
+          "url": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24141249/four-points-by-sheraton-virginia-beach-oceanfront-room.jpeg",
+          "height": 650,
+          "width": 975,
+          "courtesy": ""
+        }
+      ],
+      "hotel": {
+        "type": "hotel",
+        "id": 57531,
+        "name": "Four Points by Sheraton Virginia Beach Oceanfront",
+        "ratingValue": 80.07,
+        "ratingCount": 1825,
+        "ratingText": "Very good",
+        "category": 3,
+        "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_LEsKPwC4T-VUZzRWtnEsEBSgQp7HDnOTcRmxTkHxfW0SRD7oBSqxG178kLueLumngk1zgE-sFAOJUXp7W0uYmfMnaUdXkcYrfN4kn0NlAEDbIXGpBb4SepfnRpiH9wNPbn6oDqT9YRDZHieyZ3bkSnxRSJSEFTXVNSEsljEWGcCVZxJ0vqSD6Fp3K8H1Juo-txq0oc.QBL1kvvZ8PH.bdsRRn3Y6572xxRqp",
+        "amenities": [
+          "pool",
+          "beach",
+          "wifi"
+        ],
+        "tags": [
+          {
+            "tag_id": "254",
+            "tag_name": "WiFi in rooms",
+            "icon": "wifi"
+          },
+          {
+            "tag_id": "25",
+            "tag_name": "Parking garage",
+            "icon": "parking"
+          },
+          {
+            "tag_id": "23",
+            "tag_name": "Gym",
+            "icon": "gym"
+          },
+          {
+            "tag_id": "36",
+            "tag_name": "Indoor swimming pool",
+            "icon": "pool"
+          }
+        ],
+        "rating_aspects": {
+          "aspect_type": "location",
+          "aspect_name": "Location",
+          "aspect_rating_percentage": 92,
+          "aspect_text": "Excellent",
+          "aspect_index": 5
+        },
+        "distance": [],
+        "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/four-points-by-sheraton-virginia-beach-oceanfront-57531",
+        "show_extra_hotel_info": true
+      },
+      "blocks": [
+        {
+          "type": "description",
+          "first": true,
+          "text": "<p>Facing the ocean from a buzzing central location on the boardwalk, <a href=\"https://www.trivago.com/virginia-beach-35094/hotel/four-points-by-sheraton-virginia-beach-oceanfront-57531\" target=\"_blank\" rel=\"noopener\"><strong>Four Points by Sheraton</strong></a> Virginia Beach is a top budget pick that&#8217;s great for families.</p><p>Sofa beds that pull out in the living room and kitchenettes make these suites appealing to families or groups of friends trying to save on lodging. But just because you save on lodging doesn&#8217;t mean you&#8217;re roughing it. Many suites come <a href=\"http://magazine.com/us-jacuzzi-hotel-rooms/\">equipped with a Jacuzzi tub</a> in the bathroom where you can relax after the kids go to bed.</p><p>Hotel amenities include a heated indoor swimming pool on the top floor, but it&#8217;s small, so many guests choose to just swim in the ocean out front. There are also two onsite restaurants. Fish Bones is dinner only and features an all-you-can-eat seafood buffet. Jumpin&#8217; Shrimp is open for three meals and offers something for everyone/ Choose from pasta dishes to sandwiches, burgers, and the specialty protein &#8212; shrimp from Florida&#8217;s gulf coast.</p>"
+        }
+      ],
+      "enabled_read_more_for_blocks": false
+    },
+    {
+      "type": "table_of_contents",
+      "show": true,
+      "header": "Hotels in this article",
+      "table_of_contents": [
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 3142692,
+            "name": "Hilton Garden Inn Virginia Beach Oceanfront, VA",
+            "ratingValue": 88.12,
+            "ratingCount": 930,
+            "ratingText": "Excellent",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_4O-T6S-WRFnqYx.UNO8NxgZs4ZON3sT-lWJRf0fN3eJ61P0nR-1cRVdLWUpMN3G9cwwClKeaR9ONCXsuqT4kKJkH3IX1OhUv4fsNZMo1GFyu1.1RkfZtcpA7fDTJC.k6jWEEU2QFAQZfj46qcBXMHR-MuligTurKTBIb5q25Jg2vnkeHAHU",
+            "amenities": [
+              "pets",
+              "beach",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              },
+              {
+                "tag_id": "47",
+                "tag_name": "Restaurant",
+                "icon": "restaurant"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 94,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/hilton-garden-inn-virginia-beach-oceanfront-va-3142692",
+            "show_extra_hotel_info": true,
+            "title": "Right on the Boardwalk"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 74522,
+            "name": "Hilton Virginia Beach Oceanfront",
+            "ratingValue": 81.97,
+            "ratingCount": 1963,
+            "ratingText": "Very good",
+            "category": 4,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_liETSHG7nEfFKC4TmuQhP6.QjyFYKL8psp1feqb7jDPLOqyBS2SBVSnFnOPu6GozuwZxK4SO-y.Ec.bSsJWoUCm-18afssQzF6.YsatXaoTT83OKWngFnIG3djHg0izeCYA5rGzj5OdV8xh11VbEKw",
+            "amenities": [
+              "pool",
+              "beach",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 91,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/hilton-virginia-beach-oceanfront-74522",
+            "show_extra_hotel_info": true,
+            "title": "Modern Luxury and Live Music"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 69988,
+            "name": "Comfort Inn & Suites Virginia Beach - Oceanfront",
+            "ratingValue": 88.7,
+            "ratingCount": 1446,
+            "ratingText": "Excellent",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_AU1sCufhkUixYS6.gv-QvSqpV.Qge.la8IjvnYtvO0G8ljYddp6VqkV5ePkLgGFhYOP-MxjZJ116lXeh3qWx5LTqipK-.QyWht-uWrI7eD4ctFZgV6sYMUdE3Ioboq1M80v6LnBOFBT80pISxPF4C8R3ACczQzlggQ",
+            "amenities": {
+              "0": "pets",
+              "1": "pool",
+              "3": "beach",
+              "5": "wifi",
+              "7": "breakfast"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 94,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/comfort-inn---suites-virginia-beach---oceanfront-69988",
+            "show_extra_hotel_info": true,
+            "title": "Bike The Boardwalk"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 62937,
+            "name": "Turtle Cay Resort",
+            "ratingValue": 81.97,
+            "ratingCount": 1003,
+            "ratingText": "Very good",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_9FrEKvNrEvWDWfmYiTW1BPTJXv3Jy6mVlNn9ZoD6tlRz3rxnCYF5mguf8tnRw0sqt8avIXKxN6GIY1D1U8rk06bHlKgGgjPgSdnxuz.I3il4UZJpRvfEWlepUl4DhLGFQ4PUD0eyWIgVtbP1bm-1n-Ea9pI",
+            "amenities": {
+              "0": "pool",
+              "1": "wifi",
+              "3": "breakfast"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "35",
+                "tag_name": "Outdoor swimming pool",
+                "icon": "pool"
+              },
+              {
+                "tag_id": "47",
+                "tag_name": "Restaurant",
+                "icon": "restaurant"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 87,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/turtle-cay-resort-62937",
+            "show_extra_hotel_info": true,
+            "title": "Escape The Crowds"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 836701,
+            "name": "Ocean Beach Club",
+            "ratingValue": 80.27,
+            "ratingCount": 3158,
+            "ratingText": "Very good",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_CBzgBk2sd-RAAXmapq4tfCvNwszbie9ruuPKpDYwKJoWdE.E1cBfexqt-2dDcLceiFd9UNbJxpVDZ-aGMoqpFmvlQoAj7zCC5FnGpJu6RjCOrm0wOkgsRR6CE5lp0JV8dHcxQwyY8SPQtbM-iSmIWBstNjWEnt0zgg",
+            "amenities": {
+              "0": "pool",
+              "3": "beach",
+              "4": "wifi",
+              "6": "breakfast"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              },
+              {
+                "tag_id": "36",
+                "tag_name": "Indoor swimming pool",
+                "icon": "pool"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 90,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/ocean-beach-club-836701",
+            "show_extra_hotel_info": true,
+            "title": "Families, Couples -- Everyone's Welcome"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 73617,
+            "name": "Courtyard Virginia Beach Oceanfront",
+            "ratingValue": 85.15,
+            "ratingCount": 919,
+            "ratingText": "Excellent",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_dK38EKIDfsEw8A5mSozwEq6u1hIoFs0GsPIgfCPDpthXCgEpdRbQCn-euimSW0F6HuGZLfQ.Vz9p6CSbLNH.KXedOMGYXTZmhyQuR6cFv5rWhxY4GH7zC5cOMj-XxIjTjKdyXdd2AzWuYOgQ2XpyRwxzEB05",
+            "amenities": [
+              "pets",
+              "pool",
+              "beach",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "30",
+                "tag_name": "Pets allowed",
+                "icon": "pet"
+              },
+              {
+                "tag_id": "60",
+                "tag_name": "Wellness center / Spa",
+                "icon": "spa"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 92,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/courtyard-virginia-beach-oceanfront-73617",
+            "show_extra_hotel_info": true,
+            "title": "Boardwalk Convenience"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 72715,
+            "name": "Holiday Inn & Suites North Beach",
+            "ratingValue": 82.64,
+            "ratingCount": 1449,
+            "ratingText": "Very good",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_s2HwAPPgANOww70Unj5Yf389q9SE4E8sFfg14KqTWDFWFcWHNW3UZbeH2sUIAGwheFBRunlnZ-yPIw2mMwB2REQzdVsJ1cualA8L5bVdWoNYAAyOC9l3aLKkeYflw5qZRVKXSMraCeTQEIMMS-9X1v6t3uSa1YY3.A",
+            "amenities": {
+              "0": "pool",
+              "3": "beach",
+              "4": "wifi"
+            },
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              },
+              {
+                "tag_id": "36",
+                "tag_name": "Indoor swimming pool",
+                "icon": "pool"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 89,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/holiday-inn---suites-north-beach-72715",
+            "show_extra_hotel_info": true,
+            "title": "Family Focus"
+          }
+        },
+        {
+          "hotel_module": {
+            "type": "hotel",
+            "id": 57531,
+            "name": "Four Points by Sheraton Virginia Beach Oceanfront",
+            "ratingValue": 80.07,
+            "ratingCount": 1825,
+            "ratingText": "Very good",
+            "category": 3,
+            "url": "https://api.trivago.com/webservice/tas/forward.php?enc=_LEsKPwC4T-VUZzRWtnEsEBSgQp7HDnOTcRmxTkHxfW0SRD7oBSqxG178kLueLumngk1zgE-sFAOJUXp7W0uYmfMnaUdXkcYrfN4kn0NlAEDbIXGpBb4SepfnRpiH9wNPbn6oDqT9YRDZHieyZ3bkSnxRSJSEFTXVNSEsljEWGcCVZxJ0vqSD6Fp3K8H1Juo-txq0oc.QBL1kvvZ8PH.bdsRRn3Y6572xxRqp",
+            "amenities": [
+              "pool",
+              "beach",
+              "wifi"
+            ],
+            "tags": [
+              {
+                "tag_id": "254",
+                "tag_name": "WiFi in rooms",
+                "icon": "wifi"
+              },
+              {
+                "tag_id": "25",
+                "tag_name": "Parking garage",
+                "icon": "parking"
+              },
+              {
+                "tag_id": "23",
+                "tag_name": "Gym",
+                "icon": "gym"
+              },
+              {
+                "tag_id": "36",
+                "tag_name": "Indoor swimming pool",
+                "icon": "pool"
+              }
+            ],
+            "rating_aspects": {
+              "aspect_type": "location",
+              "aspect_name": "Location",
+              "aspect_rating_percentage": 92,
+              "aspect_text": "Excellent",
+              "aspect_index": 5
+            },
+            "distance": [],
+            "homePageURL": "https://www.trivago.com/virginia-beach-35094/hotel/four-points-by-sheraton-virginia-beach-oceanfront-57531",
+            "show_extra_hotel_info": true,
+            "title": "Retro Beach Vibe"
+          }
+        }
+      ]
+    },
+    {
+      "type": "footnote",
+      "text": "<p><strong>Feature image courtesy of Dario / Fotolia</strong></p>\n"
+    },
+    {
+      "type": "courtesy_list",
+      "show_courtesy_list": false,
+      "courtesy_list_title": "",
+      "courtesy_list_contents": []
+    }
+  ],
+  "post_meta": {
+    "template": "posts-templates/performance",
+    "im_city": "",
+    "im_state": "",
+    "im_country": ""
+  },
+  "author": {
+    "name": "Becca Blond",
+    "slug": "beccablond",
+    "image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/24111829/b.jpg",
+    "social_networks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "googleplus": null,
+      "pinterest": null
+    }
+  },
+  "seo_href": [],
+  "seo_meta": {
+    "title": "8 Virginia Beach Oceanfront Hotels: Explore the Boardwalk and Hit the Beach",
+    "metadesc": "Sunsets, sunscreen, and sand. That's summer in Virginia Beach. Check out these 8 Virginia Beach oceanfront hotels to experience the best of it all.",
+    "metakeywords": "",
+    "focuskw": "virginia beach oceanfront hotels",
+    "linkdex": "53",
+    "canonical": "https://magazine.trivago.com/virginia-beach-oceanfront-hotels/",
+    "redirect": "",
+    "meta_robots_noindex": "",
+    "meta_robots_nofollow": "",
+    "meta_robots_adv": "",
+    "opengraph_site_name": "trivago Magazine",
+    "opengraph_locale": "en_US",
+    "opengraph_type": "website",
+    "opengraph_description": "Sunsets, sunscreen, and sand. That's summer in Virginia Beach. Check out these 8 Virginia Beach oceanfront hotels to experience the best of it all.",
+    "opengraph_url": "https://magazine.trivago.com/virginia-beach-oceanfront-hotels/",
+    "opengraph_image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/28091622/virginia-beach-oceanfront-hotels-dario-fotolia.jpg",
+    "opengraph_title": "8 Virginia Beach Oceanfront Hotels: Explore the Boardwalk and Hit the Beach",
+    "twitter_title": "8 Virginia Beach Oceanfront Hotels: Explore the Boardwalk and Hit the Beach",
+    "twitter_description": "",
+    "twitter_image": "https://media-magazine.trivago.com/wp-content/uploads/2019/01/28091622/virginia-beach-oceanfront-hotels-dario-fotolia.jpg"
+  },
+  "words_count": 0
+}
