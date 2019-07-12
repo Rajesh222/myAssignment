@@ -1,0 +1,7 @@
+.latest-post {
+    margin: 40px;
+    padding: 30px;
+    border-bottom: 1px dashed;
+    background-color: aliceblue;
+    cursor: pointer;
+}

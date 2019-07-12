@@ -1,13 +1,8 @@
 import React, { Component } from 'react';
-
+import Post from './Post';
+import LatestPostsData from '../data/latest_posts.json';
 export default class LatestPosts extends Component {
   render() {
-    const posts = this.props.posts;
-    console.log('posts: ', posts);
-    const renderposts = posts.map(post => {
-      return <img key={post.id} src={post.thumbnail_url} alt={post.title} />;
-    });
-
-    return <div>{renderposts}</div>;
+    return <div><Post LatestPostsData={LatestPostsData} ></Post></div>;
   }
 }
