@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import Post from './Post';
 import { Spinner } from 'react-bootstrap';
-// import LatestPostsData from '../data/latest_posts.json';
 
 export default class LatestPosts extends Component {
   state = {
