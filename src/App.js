@@ -1,15 +1,21 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import { Container, Navbar } from 'react-bootstrap';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import LatestPosts from './components/LatestPosts';
 import PostDetails from './components/PostDetails';
 import './App.css';
 
 function App() {
   return (
-    <Container>
-      <PostDetails />
-      <LatestPosts />
-    </Container>
+    <Router>
+      <Navbar bg="light">
+        <Navbar.Brand href="/">Trivago Magzine</Navbar.Brand>
+      </Navbar>
+      <Container>
+        <Route path="/" exact component={LatestPosts} />
+      </Container>
+      <Route path="/postdetails/:id" component={PostDetails} />
+    </Router>
   );
 }
 
