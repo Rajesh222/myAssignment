@@ -3,7 +3,7 @@ import { Container, Navbar } from 'react-bootstrap';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import LatestPosts from './components/LatestPosts';
 import PostDetails from './components/PostDetails';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
